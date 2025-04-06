@@ -2,6 +2,8 @@ resumo = "Paloma é uma mulher de 46 anos que deseja mudar de profissão, por is
 
 # Imprima na tela a variável "resumo"
 
+print(resumo)
+
 
 # Imprima na tela apenas a segunda letra da variável
 
